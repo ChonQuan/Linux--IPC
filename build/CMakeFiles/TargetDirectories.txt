@@ -1,0 +1,6 @@
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/CMakeFiles/edit_cache.dir
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/CMakeFiles/rebuild_cache.dir
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/src/CMakeFiles/edit_cache.dir
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/src/CMakeFiles/rebuild_cache.dir
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/test/CMakeFiles/edit_cache.dir
+/home/quan/Desktop/LINUX--IPC/Linux--IPC/build/test/CMakeFiles/rebuild_cache.dir
